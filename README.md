@@ -73,7 +73,7 @@
   <a href="https://www.linkedin.com/in/akankshachowdary/" target="https://www.linkedin.com/in/akankshachowdary/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://pakanksha.netlify.app/" target="https://pakanksha.netlify.app/">
+  <a href="https://akanksha29.netlify.app/" target="https://akanksha29.netlify.app/">
     <img src="https://img.shields.io/badge/PORTFOLIO-2F4F4F?style=for-the-badge&logo=aboutdotme&logoColor=white"/>
   </a>
 </p>
